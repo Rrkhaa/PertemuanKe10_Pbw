@@ -57,3 +57,35 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# 📸 **Galeri Screenshot**
+
+> Tempatkan screenshot hasil implementasi pada bagian-bagian berikut:
+
+---
+
+
+## 📚 **1. List Books dengan Data Seeder**
+
+**Screenshot:**
+*<img width="1719" height="862" alt="image" src="https://github.com/user-attachments/assets/97cc3c6a-4260-4423-b714-17574b45b579"> /*
+
+---
+
+## 📝 **2. Form Create Book**
+
+**Screenshot:**
+*<img width="1719" height="862" alt="image" src="https://github.com/user-attachments/assets/03509bb1-1e42-4c4a-a8c5-ac511299865f" />
+
+*
+
+---
+
+## 🔎 **3. ViewBook**
+
+**Screenshot:**
+*<img width="1719" height="862" alt="image" src="https://github.com/user-attachments/assets/739e4966-1af1-4dc1-a52a-d191ea766d78" />
+*
+
+---
+
